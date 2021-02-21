@@ -1,7 +1,7 @@
 # Info
 The prefix for Helper is `>`.\
 You can find more information about these commands\
-by running `>help [command name]` without the `[` and `]`.\
+by running `>help [command name]` without the `[` and `]`.
 ## Command List
 ### Utility
 `help`, `h`\
